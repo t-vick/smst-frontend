@@ -1,0 +1,20 @@
+{
+  "name": "smst-frontend",
+  "description": "",
+  "main": "",
+  "authors": [
+    "t-vick <t-vick@msn.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/t-vick/smst-frontend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
